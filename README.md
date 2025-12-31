@@ -1,19 +1,5 @@
 # hassaanatif.github.io
 hassaanatif.github.io/portfolio
-<style>
-  /* Hides the default sidebar/header entirely */
-  header { display: none !important; }
-
-  /* Allows the main content to take up the full width */
-  section { width: 100% !important; max-width: 900px !important; margin: 0 auto !important; }
-
-  /* Remove table borders if they appear */
-  table, tr, td { border: none !important; }
-  
-  /* General spacing improvements */
-  ul { list-style-type: none; padding-left: 0; }
-  li { margin-bottom: 10px; }
-</style>
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
