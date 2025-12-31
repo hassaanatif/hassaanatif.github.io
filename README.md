@@ -4,7 +4,9 @@ hassaanatif.github.io/portfolio -->
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; width: 30%; padding-right: 20px;">
-      <img src="assets/img/face01.jpg" alt="Hassaan Atif" style="border-radius: 10px; width: 100%;">
+<img src="assets/img/face01.jpg" 
+    alt="Hassaan Atif" 
+     style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; display: block; margin-bottom: 15px;">
       <h2 style="margin-top: 10px;">Hassaan Atif</h2>
       <p>📧 <a href="mailto:hassaanatif@gmail.com">Email Me</a></p>
       <p>📍 Location</p>
