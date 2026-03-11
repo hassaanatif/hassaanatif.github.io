@@ -9,7 +9,7 @@ hassaanatif.github.io/portfolio -->
      style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; display: block; margin-bottom: 15px;">
       <h2 style="margin-top: 10px;">Hassaan Atif</h2>
       <p>📧 <a href="mailto:hassaanatif@gmail.com">Email Me</a></p>
-      <p>📍 Location</p>
+      <p>📍Cottbus, Brandenburg, Germany</p>
       <!-- <p>🔗 <a href="https://scholar.google.com">Google Scholar</a></p> -->
       <p>💻 <a href="https://github.com/hassaanatif">GitHub</a></p>
     </td>
